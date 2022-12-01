@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.9.3)  18 JUL 2022 14:20
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.9.3)  1 DEC 2022 16:34
 entering extended mode
 **./PhilipJonathanCV.tex
 (PhilipJonathanCV.tex
@@ -565,14 +565,21 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <6> on input line 37.
 
 LaTeX Font Warning: Font shape `T1/qpl/m/sl' in size <10.95> not available
-(Font)              Font shape `T1/qpl/m/it' tried instead on input line 64.
+(Font)              Font shape `T1/qpl/m/it' tried instead on input line 68.
 
 [1
 
 {C:/Users/Philip/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <./PhilipJonath
-an2018.png (PNG copy)>] [2] [3] [4] [5] [6] [7] [8]
+an2018.png (PNG copy)>] [2] [3]
+Overfull \hbox (40.61403pt too wide) in paragraph at lines 153--154
+[]\T1/qpl/m/n/10.95 (-20) 2022: T. Tendi-jck, J. A. Tawn and \T1/qpl/b/n/10.95 
+(-20) P. Jonathan\T1/qpl/m/n/10.95 (-20) . Ex-tremal char-ac-ter-is-tics of con
+-di-tional mod-els. Ex-tremes doi.org/10.1007/s10687-
+ []
+
+[4] [5] [6] [7] [8]
 LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 4
-13.
+25.
 
 (C:\Users\Philip\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmtt.fd
 File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
@@ -589,11 +596,11 @@ Package rerunfilecheck Info: File `PhilipJonathanCV.out' has not changed.
 Here is how much of TeX's memory you used:
  11835 strings out of 478927
  183799 string characters out of 2852062
- 537437 words of memory out of 3000000
+ 537985 words of memory out of 3000000
  29297 multiletter control sequences out of 15000+600000
  462958 words of font info for 149 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,12n,81p,1262b,341s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 72i,12n,81p,1685b,341s stack positions out of 5000i,500n,10000p,200000b,80000s
 {C:/Users/Philip/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}{
 C:/Users/Philip/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}{C:/
 Users/Philip/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc}{C:
@@ -609,7 +616,7 @@ rvosym.pfb><C:/Users/Philip/AppData/Local/Programs/MiKTeX/fonts/type1/public/te
 x-gyre/qplb.pfb><C:/Users/Philip/AppData/Local/Programs/MiKTeX/fonts/type1/publ
 ic/tex-gyre/qplr.pfb><C:/Users/Philip/AppData/Local/Programs/MiKTeX/fonts/type1
 /public/tex-gyre/qplri.pfb>
-Output written on PhilipJonathanCV.pdf (9 pages, 888655 bytes).
+Output written on PhilipJonathanCV.pdf (9 pages, 890585 bytes).
 PDF statistics:
  143 PDF objects out of 1000 (max. 8388607)
  20 named destinations out of 1000 (max. 500000)
