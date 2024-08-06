@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.9.3)  31 JUL 2024 11:17
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.9.3)  6 AUG 2024 11:45
 entering extended mode
 **./PhilipJonathanCV.tex
 (PhilipJonathanCV.tex
@@ -573,7 +573,7 @@ LaTeX Font Warning: Font shape `T1/qpl/m/sl' in size <10.95> not available
 
 [2] [3] [4] [5] [6] [7] [8] [9]
 LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 4
-51.
+53.
 
 (C:\Users\Philip\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmtt.fd
 File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
@@ -588,11 +588,11 @@ Package rerunfilecheck Info: File `PhilipJonathanCV.out' has not changed.
 (rerunfilecheck)             Checksum: 921A8B7489FFB4CCFB8149D4156081BC;1484.
  ) 
 Here is how much of TeX's memory you used:
- 11836 strings out of 478927
- 183806 string characters out of 2852062
+ 11838 strings out of 478927
+ 183826 string characters out of 2852062
  538961 words of memory out of 3000000
  29297 multiletter control sequences out of 15000+600000
- 462958 words of font info for 149 fonts, out of 8000000 for 9000
+ 463060 words of font info for 150 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  72i,12n,81p,1718b,341s stack positions out of 5000i,500n,10000p,200000b,80000s
 {C:/Users/Philip/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}{
@@ -610,7 +610,7 @@ rvosym.pfb><C:/Users/Philip/AppData/Local/Programs/MiKTeX/fonts/type1/public/te
 x-gyre/qplb.pfb><C:/Users/Philip/AppData/Local/Programs/MiKTeX/fonts/type1/publ
 ic/tex-gyre/qplr.pfb><C:/Users/Philip/AppData/Local/Programs/MiKTeX/fonts/type1
 /public/tex-gyre/qplri.pfb>
-Output written on PhilipJonathanCV.pdf (10 pages, 894385 bytes).
+Output written on PhilipJonathanCV.pdf (10 pages, 894661 bytes).
 PDF statistics:
  147 PDF objects out of 1000 (max. 8388607)
  21 named destinations out of 1000 (max. 500000)
