@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.9.30)  23 DEC 2024 13:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.9.30)  20 JAN 2025 15:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -589,7 +589,7 @@ LaTeX Font Warning: Font shape `T1/qpl/m/sl' in size <10.95> not available
 
 [9]
 LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 4
-59.
+61.
  (C:\Users\ygrai\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmtt.fd
 File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
@@ -626,7 +626,7 @@ ym.pfb><C:/Users/ygrai/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex-gyr
 e/qplb.pfb><C:/Users/ygrai/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex
 -gyre/qplr.pfb><C:/Users/ygrai/AppData/Local/Programs/MiKTeX/fonts/type1/public
 /tex-gyre/qplri.pfb>
-Output written on PhilipJonathanCV.pdf (10 pages, 895491 bytes).
+Output written on PhilipJonathanCV.pdf (10 pages, 895629 bytes).
 PDF statistics:
  147 PDF objects out of 1000 (max. 8388607)
  21 named destinations out of 1000 (max. 500000)
