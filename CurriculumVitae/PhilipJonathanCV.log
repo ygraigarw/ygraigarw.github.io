@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.9.30)  29 JAN 2025 12:27
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.9.30)  29 JAN 2025 15:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -539,7 +539,7 @@ LaTeX Font Warning: Font shape `T1/qpl/m/sl' in size <14.4> not available
 (Font)              Font shape `T1/qpl/m/it' tried instead on input line 29.
 
 \makecvtitlepicturebox=\box57
-<PhilipJonathan2018.png, id=45, 565.36218pt x 605.26125pt>
+<PhilipJonathan2018.png, id=49, 565.36218pt x 605.26125pt>
 File: PhilipJonathan2018.png Graphic file (type png)
 <use PhilipJonathan2018.png>
 Package pdftex.def Info: PhilipJonathan2018.png  used on input line 29.
@@ -588,8 +588,10 @@ LaTeX Font Warning: Font shape `T1/qpl/m/sl' in size <10.95> not available
 [8]
 
 [9]
+
+[10]
 LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 4
-64.
+59.
  (C:\Users\ygrai\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmtt.fd
 File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
@@ -598,7 +600,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 
-Overfull \hbox (7.15718pt too wide) in paragraph at lines 464--465
+Overfull \hbox (7.15718pt too wide) in paragraph at lines 459--460
 \T1/qpl/m/n/10.95 (-20) liau gw-erthoedd ei-thafol a gofodol-amserol Baye-saidd
 . Am rhagor o wybo-daeth, ewch i \T1/lmtt/m/n/10.95 www.lancs.ac.uk/$\OMS/lmsy/
 m/n/10.95 ^^X$\T1/lmtt/m/n/10.95 jonathan\T1/qpl/m/n/10.95 (-20) . 
@@ -606,20 +608,20 @@ m/n/10.95 ^^X$\T1/lmtt/m/n/10.95 jonathan\T1/qpl/m/n/10.95 (-20) .
 
 
 
-[10{C:/Users/ygrai/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}]
+[11{C:/Users/ygrai/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}]
 (PhilipJonathanCV.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-08-30>
  ***********
 Package rerunfilecheck Info: File `PhilipJonathanCV.out' has not changed.
-(rerunfilecheck)             Checksum: 921A8B7489FFB4CCFB8149D4156081BC;1484.
+(rerunfilecheck)             Checksum: 13837C7A36DC00FF1168FD96D9D9F996;1642.
  ) 
 Here is how much of TeX's memory you used:
- 12658 strings out of 473899
- 205709 string characters out of 5726500
+ 12661 strings out of 473899
+ 205740 string characters out of 5726500
  644719 words of memory out of 5000000
- 35139 multiletter control sequences out of 15000+600000
+ 35140 multiletter control sequences out of 15000+600000
  617839 words of font info for 160 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  79i,12n,93p,1667b,454s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -633,9 +635,9 @@ ym.pfb><C:/Users/ygrai/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex-gyr
 e/qplb.pfb><C:/Users/ygrai/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex
 -gyre/qplr.pfb><C:/Users/ygrai/AppData/Local/Programs/MiKTeX/fonts/type1/public
 /tex-gyre/qplri.pfb>
-Output written on PhilipJonathanCV.pdf (10 pages, 894707 bytes).
+Output written on PhilipJonathanCV.pdf (11 pages, 896114 bytes).
 PDF statistics:
- 147 PDF objects out of 1000 (max. 8388607)
- 21 named destinations out of 1000 (max. 500000)
- 20054 words of extra memory for PDF output out of 20736 (max. 10000000)
+ 155 PDF objects out of 1000 (max. 8388607)
+ 23 named destinations out of 1000 (max. 500000)
+ 20062 words of extra memory for PDF output out of 20736 (max. 10000000)
 
