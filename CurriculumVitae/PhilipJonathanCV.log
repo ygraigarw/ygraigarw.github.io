@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.9.30)  29 JAN 2025 15:42
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.9.30)  29 JAN 2025 16:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -620,11 +620,11 @@ Package rerunfilecheck Info: File `PhilipJonathanCV.out' has not changed.
 Here is how much of TeX's memory you used:
  12661 strings out of 473899
  205740 string characters out of 5726500
- 644719 words of memory out of 5000000
+ 645719 words of memory out of 5000000
  35140 multiletter control sequences out of 15000+600000
  617839 words of font info for 160 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 79i,12n,93p,1667b,454s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 79i,12n,93p,1706b,454s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/ygrai/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi10.pf
 b><C:/Users/ygrai/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb
 ><C:/Users/ygrai/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><
@@ -635,7 +635,7 @@ ym.pfb><C:/Users/ygrai/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex-gyr
 e/qplb.pfb><C:/Users/ygrai/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex
 -gyre/qplr.pfb><C:/Users/ygrai/AppData/Local/Programs/MiKTeX/fonts/type1/public
 /tex-gyre/qplri.pfb>
-Output written on PhilipJonathanCV.pdf (11 pages, 896114 bytes).
+Output written on PhilipJonathanCV.pdf (11 pages, 896142 bytes).
 PDF statistics:
  155 PDF objects out of 1000 (max. 8388607)
  23 named destinations out of 1000 (max. 500000)
