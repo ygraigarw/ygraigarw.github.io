@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.9.30)  22 JAN 2025 09:48
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.9.30)  29 JAN 2025 12:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -589,7 +589,7 @@ LaTeX Font Warning: Font shape `T1/qpl/m/sl' in size <10.95> not available
 
 [9]
 LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 4
-61.
+64.
  (C:\Users\ygrai\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmtt.fd
 File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
@@ -597,6 +597,13 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `lmtt' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
+
+Overfull \hbox (7.15718pt too wide) in paragraph at lines 464--465
+\T1/qpl/m/n/10.95 (-20) liau gw-erthoedd ei-thafol a gofodol-amserol Baye-saidd
+. Am rhagor o wybo-daeth, ewch i \T1/lmtt/m/n/10.95 www.lancs.ac.uk/$\OMS/lmsy/
+m/n/10.95 ^^X$\T1/lmtt/m/n/10.95 jonathan\T1/qpl/m/n/10.95 (-20) . 
+ []
+
 
 
 [10{C:/Users/ygrai/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}]
@@ -615,7 +622,7 @@ Here is how much of TeX's memory you used:
  35139 multiletter control sequences out of 15000+600000
  617839 words of font info for 160 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 79i,12n,93p,1722b,454s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 79i,12n,93p,1667b,454s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/ygrai/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi10.pf
 b><C:/Users/ygrai/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb
 ><C:/Users/ygrai/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><
@@ -626,7 +633,7 @@ ym.pfb><C:/Users/ygrai/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex-gyr
 e/qplb.pfb><C:/Users/ygrai/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex
 -gyre/qplr.pfb><C:/Users/ygrai/AppData/Local/Programs/MiKTeX/fonts/type1/public
 /tex-gyre/qplri.pfb>
-Output written on PhilipJonathanCV.pdf (10 pages, 895635 bytes).
+Output written on PhilipJonathanCV.pdf (10 pages, 894707 bytes).
 PDF statistics:
  147 PDF objects out of 1000 (max. 8388607)
  21 named destinations out of 1000 (max. 500000)
