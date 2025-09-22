@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.9.30)  15 SEP 2025 10:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.9.30)  22 SEP 2025 17:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -613,15 +613,8 @@ m/n/10.95 ^^X$\T1/lmtt/m/n/10.95 jonathan\T1/qpl/m/n/10.95 (-20) .
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-08-30>
  ***********
-
-
-Package rerunfilecheck Warning: File `PhilipJonathanCV.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `PhilipJonathanCV.out':
-(rerunfilecheck)             Before: 1B44BC1E8C828E0484D24658FF9F4BCC;1653
-(rerunfilecheck)             After:  04B502974F31BCB098507EACB809DDC5;1642.
+Package rerunfilecheck Info: File `PhilipJonathanCV.out' has not changed.
+(rerunfilecheck)             Checksum: 04B502974F31BCB098507EACB809DDC5;1642.
  ) 
 Here is how much of TeX's memory you used:
  12661 strings out of 473899
@@ -641,7 +634,7 @@ ym.pfb><C:/Users/ygrai/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex-gyr
 e/qplb.pfb><C:/Users/ygrai/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex
 -gyre/qplr.pfb><C:/Users/ygrai/AppData/Local/Programs/MiKTeX/fonts/type1/public
 /tex-gyre/qplri.pfb>
-Output written on PhilipJonathanCV.pdf (11 pages, 895960 bytes).
+Output written on PhilipJonathanCV.pdf (11 pages, 896262 bytes).
 PDF statistics:
  155 PDF objects out of 1000 (max. 8388607)
  23 named destinations out of 1000 (max. 500000)
