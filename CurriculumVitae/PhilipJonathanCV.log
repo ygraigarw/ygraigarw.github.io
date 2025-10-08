@@ -1,30 +1,26 @@
-<<<<<<< HEAD
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.9.30)  8 OCT 2025 11:10
-=======
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.3.31)  30 SEP 2025 16:20
->>>>>>> cc2e42e5165579f16d7cbe7fa0b6c19ebef1dd71
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.9.30)  8 OCT 2025 11:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **./PhilipJonathanCV.tex
 (PhilipJonathanCV.tex
-LaTeX2e <2024-11-01> patch level 2
-L3 programming layer <2025-01-18>
+LaTeX2e <2024-06-01> patch level 2
+L3 programming layer <2024-08-30>
 (moderncv.cls
 Document Class: moderncv 2013/02/09 v1.3.0 modern curriculum vitae and letter d
 ocument class
 (C:\Users\ygrai\AppData\Local\Programs\MiKTeX\tex/latex/base\size11.clo
-File: size11.clo 2024/06/29 v1.4n Standard LaTeX file (size option)
+File: size11.clo 2024/02/08 v1.4n Standard LaTeX file (size option)
 )
 (C:\Users\ygrai\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
-Package: etoolbox 2025/02/11 v2.5l e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count196
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count194
 )
 (C:\Users\ygrai\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
 Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
 )
 (C:\Users\ygrai\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
-Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
+Package: xcolor 2023/11/15 v3.01 LaTeX color extensions (UK)
 
 (C:\Users\ygrai\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
@@ -35,15 +31,15 @@ Package xcolor Info: Driver file: pdftex.def on input line 274.
 File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
 )
 (C:\Users\ygrai\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
-Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
-Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1353.
-Package xcolor Info: Model `RGB' extended on input line 1365.
-Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1367.
-Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1368.
-Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
-Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
-Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
-Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1350.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1354.
+Package xcolor Info: Model `RGB' extended on input line 1366.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1368.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1372.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1373.
 ) (C:\Users\ygrai\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 )
@@ -94,7 +90,7 @@ Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks17
 )
 (C:\Users\ygrai\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
-Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+Package: graphics 2024/05/23 v1.4g Standard LaTeX Graphics (DPC,SPQR)
 
 (C:\Users\ygrai\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
 Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
@@ -109,96 +105,87 @@ Package graphics Info: Driver file: pdftex.def on input line 106.
 \Gin@req@width=\dimen142
 )
 (C:\Users\ygrai\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
-Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
-
+Package: fancyhdr 2024/07/23 v4.3.1 Extensive control of page headers and foote
+rs
 \f@nch@headwidth=\skip49
-\f@nch@offset@elh=\skip50
-\f@nch@offset@erh=\skip51
-\f@nch@offset@olh=\skip52
-\f@nch@offset@orh=\skip53
-\f@nch@offset@elf=\skip54
-\f@nch@offset@erf=\skip55
-\f@nch@offset@olf=\skip56
-\f@nch@offset@orf=\skip57
-\f@nch@height=\skip58
-\f@nch@footalignment=\skip59
-\f@nch@widthL=\skip60
-\f@nch@widthC=\skip61
-\f@nch@widthR=\skip62
-\@temptokenb=\toks18
+\f@nch@O@elh=\skip50
+\f@nch@O@erh=\skip51
+\f@nch@O@olh=\skip52
+\f@nch@O@orh=\skip53
+\f@nch@O@elf=\skip54
+\f@nch@O@erf=\skip55
+\f@nch@O@olf=\skip56
+\f@nch@O@orf=\skip57
 )
 (tweaklist.sty)
 (C:\Users\ygrai\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
 Package: calc 2023/07/08 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count197
-\calc@Bcount=\count198
+\calc@Acount=\count195
+\calc@Bcount=\count196
 \calc@Adimen=\dimen143
 \calc@Bdimen=\dimen144
-\calc@Askip=\skip63
-\calc@Bskip=\skip64
+\calc@Askip=\skip58
+\calc@Bskip=\skip59
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count199
-\calc@Cskip=\skip65
+\calc@Ccount=\count197
+\calc@Cskip=\skip60
 )
 (C:\Users\ygrai\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xpars
 e.sty
 (C:\Users\ygrai\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
-Package: expl3 2025-01-18 L3 programming layer (loader) 
+Package: expl3 2024-08-30 L3 programming layer (loader) 
 
 (C:\Users\ygrai\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
 tex.def
 File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count266
+\l__color_backend_stack_int=\count198
 \l__pdf_internal_box=\box52
 ))
 Package: xparse 2024-08-16 L3 Experimental document command parser
 )
 (C:\Users\ygrai\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.sty
-Package: microtype 2025/02/11 v3.2a Micro-typographical refinements (RS)
-\MT@toks=\toks19
+Package: microtype 2024/03/29 v3.1b Micro-typographical refinements (RS)
+\MT@toks=\toks18
 \MT@tempbox=\box53
-\MT@count=\count267
-LaTeX Info: Redefining \noprotrusionifhmode on input line 1087.
-LaTeX Info: Redefining \leftprotrusion on input line 1088.
-\MT@prot@toks=\toks20
-LaTeX Info: Redefining \rightprotrusion on input line 1107.
-LaTeX Info: Redefining \textls on input line 1449.
+\MT@count=\count199
+LaTeX Info: Redefining \noprotrusionifhmode on input line 1061.
+LaTeX Info: Redefining \leftprotrusion on input line 1062.
+\MT@prot@toks=\toks19
+LaTeX Info: Redefining \rightprotrusion on input line 1081.
+LaTeX Info: Redefining \textls on input line 1392.
 \MT@outer@kern=\dimen145
-LaTeX Info: Redefining \microtypecontext on input line 2053.
-LaTeX Info: Redefining \textmicrotypecontext on input line 2070.
-\MT@listname@count=\count268
+LaTeX Info: Redefining \textmicrotypecontext on input line 2013.
+\MT@listname@count=\count266
 
 (C:\Users\ygrai\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype-pdf
 tex.def
-File: microtype-pdftex.def 2025/02/11 v3.2a Definitions specific to pdftex (RS)
+File: microtype-pdftex.def 2024/03/29 v3.1b Definitions specific to pdftex (RS)
 
-LaTeX Info: Redefining \lsstyle on input line 944.
-LaTeX Info: Redefining \lslig on input line 944.
-\MT@outer@space=\skip66
+LaTeX Info: Redefining \lsstyle on input line 902.
+LaTeX Info: Redefining \lslig on input line 902.
+\MT@outer@space=\skip61
 )
 Package microtype Info: Loading configuration file microtype.cfg.
 
 (C:\Users\ygrai\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.cfg
-File: microtype.cfg 2025/02/11 v3.2a microtype main configuration file (RS)
-)
-LaTeX Info: Redefining \microtypesetup on input line 3065.
-) (moderncvcompatibility.sty
+File: microtype.cfg 2024/03/29 v3.1b microtype main configuration file (RS)
+)) (moderncvcompatibility.sty
 Package: moderncvcompatibility 2013/02/09 v1.3.0 modern curriculum vitae and le
 tter compatibility patches
 ) (collection.sty
 Package: collection 2013/03/28 v1.0.0 collections
-\c@collection@iterator=\count269
+\c@collection@iterator=\count267
 )
-\c@collection@phones@count=\count270
-\c@cvcolumnscounter=\count271
-\c@cvcolumnsautowidthcounter=\count272
-\c@tmpiteratorcounter=\count273
-\cvcolumnsdummywidth=\skip67
-\cvcolumnswidth=\skip68
-\cvcolumnsautowidth=\skip69
-\cvcolumnautowidth=\skip70
-\bibindent=\skip71
+\c@collection@phones@count=\count268
+\c@cvcolumnscounter=\count269
+\c@cvcolumnsautowidthcounter=\count270
+\c@tmpiteratorcounter=\count271
+\cvcolumnsdummywidth=\skip62
+\cvcolumnswidth=\skip63
+\cvcolumnsautowidth=\skip64
+\cvcolumnautowidth=\skip65
+\bibindent=\skip66
 ) (moderncvstyleclassic.sty
 Package: moderncvstyleclassic 2013/02/09 v1.3.0 modern curriculum vitae and let
 ter style scheme: classic
@@ -207,23 +194,23 @@ ter style scheme: classic
 Package: moderncviconsmarvosym 2013/02/09 v1.3.0 modern curriculum vitae and le
 tter icons: marvosym
 )
-\quotewidth=\skip72
-\hintscolumnwidth=\skip73
-\separatorcolumnwidth=\skip74
-\maincolumnwidth=\skip75
-\doubleitemmaincolumnwidth=\skip76
-\listitemsymbolwidth=\skip77
+\quotewidth=\skip67
+\hintscolumnwidth=\skip68
+\separatorcolumnwidth=\skip69
+\maincolumnwidth=\skip70
+\doubleitemmaincolumnwidth=\skip71
+\listitemsymbolwidth=\skip72
 LaTeX Font Info:    Trying to load font information for U+mvs on input line 68.
 
 
 (C:\Users\ygrai\AppData\Local\Programs\MiKTeX\tex/latex/marvosym\umvs.fd)
-\listitemmaincolumnwidth=\skip78
-\listdoubleitemmaincolumnwidth=\skip79
-\makecvtitlenamewidth=\skip80
-\baseletterheight=\skip81
+\listitemmaincolumnwidth=\skip73
+\listdoubleitemmaincolumnwidth=\skip74
+\makecvtitlenamewidth=\skip75
+\baseletterheight=\skip76
 \cvitemwithcommentmainbox=\box54
-\cvitemwithcommentmainlength=\skip82
-\cvitemwithcommentcommentlength=\skip83
+\cvitemwithcommentmainlength=\skip77
+\cvitemwithcommentcommentlength=\skip78
 )
 (C:\Users\ygrai\AppData\Local\Programs\MiKTeX\tex/latex/moderncv\moderncvcolorg
 reen.sty
@@ -239,11 +226,11 @@ Package: geometry 2020/01/02 v5.9 Page Geometry
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 
 (C:\Users\ygrai\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
-Package: iftex 2024/12/12 v1.0g TeX engine tests
+Package: iftex 2022/02/03 v1.0f TeX engine tests
 ))
-\Gm@cnth=\count274
-\Gm@cntv=\count275
-\c@Gm@tempcnt=\count276
+\Gm@cnth=\count272
+\Gm@cntv=\count273
+\c@Gm@tempcnt=\count274
 \Gm@bindingoffset=\dimen146
 \Gm@wd@mp=\dimen147
 \Gm@odd@mp=\dimen148
@@ -252,7 +239,7 @@ Package: iftex 2024/12/12 v1.0g TeX engine tests
 \Gm@layoutheight=\dimen151
 \Gm@layouthoffset=\dimen152
 \Gm@layoutvoffset=\dimen153
-\Gm@dimlist=\toks21
+\Gm@dimlist=\toks20
 
 (C:\Users\ygrai\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
 (C:\Users\ygrai\AppData\Local\Programs\MiKTeX\tex/latex/tex-gyre\tgpagella.sty
@@ -267,7 +254,7 @@ Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
 Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
 )))
 (C:\Users\ygrai\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
-Package: hyperref 2024-11-05 v7.01l Hypertext links for LaTeX
+Package: hyperref 2024-07-10 v7.01j Hypertext links for LaTeX
 
 (C:\Users\ygrai\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefine
 keys.sty
@@ -303,7 +290,7 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 lestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count277
+\c@section@level=\count275
 )
 (C:\Users\ygrai\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\stringenc.s
 ty
@@ -311,18 +298,18 @@ Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
 )
 )
 \@linkdim=\dimen154
-\Hy@linkcounter=\count278
-\Hy@pagecounter=\count279
+\Hy@linkcounter=\count276
+\Hy@pagecounter=\count277
  (C:\Users\ygrai\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
-File: pd1enc.def 2024-11-05 v7.01l Hyperref: PDFDocEncoding definition (HO)
+File: pd1enc.def 2024-07-10 v7.01j Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 ) (C:\Users\ygrai\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-\Hy@SavedSpaceFactor=\count280
+\Hy@SavedSpaceFactor=\count278
  (C:\Users\ygrai\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
-File: puenc.def 2024-11-05 v7.01l Hyperref: PDF Unicode definition (HO)
+File: puenc.def 2024-07-10 v7.01j Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
 )
@@ -334,7 +321,7 @@ Package hyperref Info: Plain pages OFF on input line 4172.
 Package hyperref Info: Backreferencing OFF on input line 4177.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4424.
-\c@Hy@tempcnt=\count281
+\c@Hy@tempcnt=\count279
 LaTeX Info: Redefining \url on input line 4763.
 \XeTeXLinkMargin=\dimen155
 
@@ -346,7 +333,7 @@ Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count282
+\Fld@menulength=\count280
 \Field@Width=\dimen156
 \Fld@charsize=\dimen157
 Package hyperref Info: Hyper figures OFF on input line 6042.
@@ -361,21 +348,21 @@ Package hyperref Info: PDF/A mode OFF on input line 6072.
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-\Hy@abspage=\count283
-\c@Item=\count284
-\c@Hfootnote=\count285
+\Hy@abspage=\count281
+\c@Item=\count282
+\c@Hfootnote=\count283
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 (C:\Users\ygrai\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
-File: hpdftex.def 2024-11-05 v7.01l Hyperref driver for pdfTeX
+File: hpdftex.def 2024-07-10 v7.01j Hyperref driver for pdfTeX
 
 (C:\Users\ygrai\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty
 Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
 kage
 with kernel methods
 )
-\Fld@listcount=\count286
-\c@bookmark@seq@number=\count287
+\Fld@listcount=\count284
+\c@bookmark@seq@number=\count285
 
 (C:\Users\ygrai\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfil
 echeck.sty
@@ -388,7 +375,7 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 85.
 )
-\Hy@SectionHShift=\skip84
+\Hy@SectionHShift=\skip79
 )
 Package hyperref Info: Option `breaklinks' set `true' on input line 28.
 Package hyperref Info: Option `bookmarksopen' set `true' on input line 28.
@@ -423,17 +410,17 @@ LaTeX Font Info:    ... okay on input line 28.
 (C:\Users\ygrai\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
 ii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count288
+\scratchcounter=\count286
 \scratchdimen=\dimen158
 \scratchbox=\box55
-\nofMPsegments=\count289
-\nofMParguments=\count290
-\everyMPshowfont=\toks22
-\MPscratchCnt=\count291
+\nofMPsegments=\count287
+\nofMParguments=\count288
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count289
 \MPscratchDim=\dimen159
-\MPnumerator=\count292
-\makeMPintoPDFobject=\count293
-\everyMPtoPDFconversion=\toks23
+\MPnumerator=\count290
+\makeMPintoPDFobject=\count291
+\everyMPtoPDFconversion=\toks22
 )
 (C:\Users\ygrai\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
 ase.sty
@@ -451,7 +438,6 @@ Package microtype Info: Applying patch `toc' on input line 28.
 Package microtype Info: Applying patch `eqnum' on input line 28.
 Package microtype Info: Applying patch `footnote' on input line 28.
 Package microtype Info: Applying patch `verbatim' on input line 28.
-LaTeX Info: Redefining \microtypesetup on input line 28.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -558,8 +544,8 @@ File: PhilipJonathan2018.png Graphic file (type png)
 <use PhilipJonathan2018.png>
 Package pdftex.def Info: PhilipJonathan2018.png  used on input line 29.
 (pdftex.def)             Requested size: 54.0pt x 57.80518pt.
-\makecvtitledetailswidth=\skip85
-\makecvtitlepicturewidth=\skip86
+\makecvtitledetailswidth=\skip80
+\makecvtitlepicturewidth=\skip81
 
 Underfull \hbox (badness 10000) in paragraph at lines 29--29
 
@@ -624,18 +610,18 @@ m/n/10.95 ^^X$\T1/lmtt/m/n/10.95 jonathan\T1/qpl/m/n/10.95 (-20) .
 
 [11] (PhilipJonathanCV.aux)
  ***********
-LaTeX2e <2024-11-01> patch level 2
-L3 programming layer <2025-01-18>
+LaTeX2e <2024-06-01> patch level 2
+L3 programming layer <2024-08-30>
  ***********
 Package rerunfilecheck Info: File `PhilipJonathanCV.out' has not changed.
 (rerunfilecheck)             Checksum: 04B502974F31BCB098507EACB809DDC5;1642.
  ) 
 Here is how much of TeX's memory you used:
- 12855 strings out of 473523
- 210050 string characters out of 5714630
- 652709 words of memory out of 5000000
- 35689 multiletter control sequences out of 15000+600000
- 618607 words of font info for 160 fonts, out of 8000000 for 9000
+ 12661 strings out of 473899
+ 205740 string characters out of 5726500
+ 644676 words of memory out of 5000000
+ 35140 multiletter control sequences out of 15000+600000
+ 617839 words of font info for 160 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  79i,12n,93p,1654b,454s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/ygrai/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi10.pf
@@ -648,11 +634,7 @@ ym.pfb><C:/Users/ygrai/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex-gyr
 e/qplb.pfb><C:/Users/ygrai/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex
 -gyre/qplr.pfb><C:/Users/ygrai/AppData/Local/Programs/MiKTeX/fonts/type1/public
 /tex-gyre/qplri.pfb>
-<<<<<<< HEAD
-Output written on PhilipJonathanCV.pdf (11 pages, 896581 bytes).
-=======
-Output written on PhilipJonathanCV.pdf (11 pages, 893504 bytes).
->>>>>>> cc2e42e5165579f16d7cbe7fa0b6c19ebef1dd71
+Output written on PhilipJonathanCV.pdf (11 pages, 896705 bytes).
 PDF statistics:
  155 PDF objects out of 1000 (max. 8388607)
  23 named destinations out of 1000 (max. 500000)
