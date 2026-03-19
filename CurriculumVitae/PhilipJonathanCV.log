@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.9.30)  10 MAR 2026 12:39
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.9.30)  19 MAR 2026 13:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -584,13 +584,6 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 
-Overfull \hbox (7.15718pt too wide) in paragraph at lines 140--141
-\T1/qpl/m/n/10.95 (-20) liau gw-erthoedd ei-thafol a gofodol-amserol Baye-saidd
-. Am rhagor o wybo-daeth, ewch i \T1/lmtt/m/n/10.95 www.lancs.ac.uk/$\OMS/lmsy/
-m/n/10.95 ^^X$\T1/lmtt/m/n/10.95 jonathan\T1/qpl/m/n/10.95 (-20) . 
- []
-
-
 
 [3{C:/Users/ygrai/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}]
 
@@ -634,9 +627,9 @@ ym.pfb><C:/Users/ygrai/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex-gyr
 e/qplb.pfb><C:/Users/ygrai/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex
 -gyre/qplr.pfb><C:/Users/ygrai/AppData/Local/Programs/MiKTeX/fonts/type1/public
 /tex-gyre/qplri.pfb>
-Output written on PhilipJonathanCV.pdf (11 pages, 896905 bytes).
+Output written on PhilipJonathanCV.pdf (11 pages, 897693 bytes).
 PDF statistics:
- 155 PDF objects out of 1000 (max. 8388607)
+ 157 PDF objects out of 1000 (max. 8388607)
  23 named destinations out of 1000 (max. 500000)
  20062 words of extra memory for PDF output out of 20736 (max. 10000000)
 
