@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<title>IOGP masterclass</title>
+
+<style>
+/* Style the content */
+.content {
+  background-color: rgba(200, 255, 200, 0.3);
+  padding: 10px;
+  max-width: 1000px;
+  margin: auto;
+  /*height: 200px;*/ /* Should be removed. Only for demonstration */
+}
+/* Style the header */
+h1.phil {
+  color: rgba(50,200,50,1); 
+  font-size: 30px;
+}
+
+</head>
+</style>
+<html>
+  <body>
+	<h1 class="phil">IOGP masterclass</h1>
+    <p>Welcome to IOGP extreme value masterclass slides (2026)</p>
+    <p>The slides provide a relatively gentle introduction to applied extreme value modelling, hopefully useful for a metocean engineer.</p>
+
+	<h1 class="phil">fundamentals</h1>
+	<p>An introduction to extreme value modelling of block maxima and peaks over threshold. Also provides a quick overview of basic statistical tools used for model fitting, mainly from a frequentist perspective, including maximum likelihood estimation, cross-validation for performance assessment and hyper-parameter optimisation, bootstrapping for uncertainty quantification, penalised maximum likelihood for inclusion of parameter constraints, and model averaging for merging of inferences across different models. There's a slide explaining how similar things can be achieved using Bayesian inference. 
+	Slides are here: <a href="IOGP-Jonathan-Fundamentals.pdf" target="_blank">A: Fundamentals (PDF)</a></p>
+
+	<h1 class="phil">covariates</h1>
+	<p>A discussion of why ignoring covariate effects can lead to bias in return value estimates. An explanation of how a typical inference for a directional extreme value model proceeds using frequentist methods. A summary of the equivalent Bayesian inference. Slides are here: <a href="IOGP-Jonathan-Covariates.pdf" target="_blank">B: Covariates (PDF)</a></p>
+
+	<h1 class="phil">multivariate</h1>
+	<p>A discussion of the importance of careful joint modelling of extremes, and the need understand extremal dependence to avoid bias in inferences. Introduction of asymptotic independence and asymptotic dependence. Overview of the conditional extremes model, and comparison with the Weibull-log normal model. Slides are here: <a href="IOGP-Jonathan-Multivariate.pdf" target="_blank">C: Multivariate (PDF)</a></p>
+
+	<h1 class="phil">covXtreme</h1>
+	<p>An introduction to the covXtreme software, and a walk-through of a typical directional extremes analysis, including estimation of marginal return values for (storm peak) significant wave height, associated values for spectral peak period, and environmental design contours. Draws on previous sections of the masterclass.
+	Slides are here: <a href="IOGP-Jonathan-covXtreme.pdf" target="_blank">D: covXtreme (PDF)</a></p>
+
+	<h1 class="phil">recent development and take-aways</h1>
+	<p>An overview of recend developments potentially of interest to the metocean engineer. A discussion of full probabilistic structural design, statistical models for extremes of time-series (such as the evolution of sea-state significant wave height during a storm relative the storm peak), angular-radial models for multivariate extremes such as SPAR, and the impact of (epistemic) uncertainty on estimation of extreme quantiles such as return values. 
+	Slides are here: <a href="IOGP-Jonathan-RecentTakeAways.pdf" target="_blank">E: RecentTakeAways (PDF)</a></p>
+  </body>
+</html>
