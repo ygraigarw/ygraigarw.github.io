@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.3.31)  22 JUN 2026 18:39
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.3.31)  24 AUG 2026 12:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -585,7 +585,7 @@ LaTeX Font Warning: Font shape `T1/qpl/m/sl' in size <10.95> not available
 
 [2]
 LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 1
-41.
+43.
  (C:\Users\ygrai\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmtt.fd
 File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
@@ -622,11 +622,11 @@ Package rerunfilecheck Info: File `PhilipJonathanCV.out' has not changed.
 Here is how much of TeX's memory you used:
  12853 strings out of 473523
  210030 string characters out of 5714630
- 652709 words of memory out of 5000000
+ 653709 words of memory out of 5000000
  35689 multiletter control sequences out of 15000+600000
  618505 words of font info for 159 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 79i,12n,93p,1654b,454s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 79i,12n,93p,1646b,454s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/ygrai/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi10.pf
 b><C:/Users/ygrai/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb
 ><C:/Users/ygrai/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><
@@ -637,7 +637,7 @@ ym.pfb><C:/Users/ygrai/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex-gyr
 e/qplb.pfb><C:/Users/ygrai/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex
 -gyre/qplr.pfb><C:/Users/ygrai/AppData/Local/Programs/MiKTeX/fonts/type1/public
 /tex-gyre/qplri.pfb>
-Output written on PhilipJonathanCV.pdf (11 pages, 894703 bytes).
+Output written on PhilipJonathanCV.pdf (11 pages, 894791 bytes).
 PDF statistics:
  157 PDF objects out of 1000 (max. 8388607)
  23 named destinations out of 1000 (max. 500000)
