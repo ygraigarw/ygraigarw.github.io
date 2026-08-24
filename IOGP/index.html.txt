@@ -1,3 +1,10 @@
+<!DOCTYPE html>
+<html>
+  <body>
+    <p>Welcome to IOGP masterclass slides</p>
+  </body>
+</html>
+
 <a href="IOGP-Jonathan-Fundamentals.pdf" target="_blank">A: Fundamentals (PDF)</a>
 <a href="IOGP-Jonathan-Covariates.pdf" target="_blank">B: Covariates (PDF)</a>
 <a href="IOGP-Jonathan-Multivariate.pdf" target="_blank">C: Multivariate (PDF)</a>
